@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasanZaidi0123
-- 👀 I’m interested in Technology and Software Development
+- 👀 I’m interested in Technology, Software Development and Automated Testing
 - 🌱 I’m currently learning Information Technology
 
 
